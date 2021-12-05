@@ -1,0 +1,11 @@
+.list {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+.list__img {
+  width: 350px;
+  height: 200px;
+}
