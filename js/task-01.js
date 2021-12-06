@@ -1,5 +1,4 @@
 const ulRef = document.querySelector('#categories');
-console.dir(ulRef.children.length);
 
 const allLiRef = document.querySelectorAll('.item');
 
